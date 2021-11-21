@@ -12,3 +12,11 @@ The problem could be decomposed into two parts:
 2. Choose the order in which the gifts should be delivered on each trip.
 
 This problem it is a variation of the Traveling Salesman Problem.
+
+## Visualization tool
+Inside the folder visualization there is a python project that runs in Jupiter.
+This project already load the data and display the data in a map.
+
+## Useful libraries
+
+[Haversine Python Library](https://pypi.org/project/haversine/)
